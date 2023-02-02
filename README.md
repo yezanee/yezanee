@@ -1,4 +1,7 @@
-### Hello, I'm Yejin 👋
+### 
+<div align="center">
+  Hello, I'm Yejin 👋
+</div>
 
 <!--
 **yezanee/yezanee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
