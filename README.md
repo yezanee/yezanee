@@ -3,27 +3,31 @@
 
 </div>
 <div align=center>
-	<h3>📚 Tech Stack 📚</h3>
-	<p>✨ Platforms & Languages ✨</p>
+	<h3>☁️ Tech Stack ☁️</h3>
+	<p>🍀 LANGUAGES 🍀</p>
 </div>
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
 	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
+	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white" />
+	<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
 	<br>
 </div>
 <br>
 <div align=center>
-	<p>🛠 Tools 🛠</p>
+	<p>🌸 TOOLS 🌸</p>
 </div>
 <div align=center>
 	<img src="https://img.shields.io/badge/intellij%20IDEA-2C2255?style=flat&logo=intellijidea&logoColor=white" />
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
 	<br>
+	<img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+	<img src="https://img.shields.io/badge/slack-4A154B?style=flat&logo=slack&logoColor=white" />
 </div>
 <br>
 <div align=center>
-	<p>🎨 SNS & Portfolio 🎨</p>
+	<p>🌼 SNS & PORTFOLIO 🌼</p>
 </div>
 <div align=center>
 	<a href="">
